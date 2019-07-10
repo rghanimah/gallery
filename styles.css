@@ -1,0 +1,42 @@
+.row1 {
+width: 5%;
+length:5%;
+align-items: center;
+
+}
+
+.row1 img{
+width: 300%;
+length:300%;
+flex-direction: row;
+}
+.row2 {
+width: 5%;
+length:5%;
+align-items: center;
+}
+.row3 {
+width: 5%;
+length:5%;
+align-items: center;
+}
+.row4 {
+width: 5%;
+length:5%;
+align-items: row;
+}
+.row5 {
+width: 5%;
+length:5%;
+align-items: center;
+
+}
+
+
+
+body {
+
+  background-color: #ffcccc;
+}
+
+@media screen and (max-width: break)
