@@ -132,6 +132,8 @@ p {background-color: green;
 display:inline-block;
 font-style: "Lucida Console", Monaco, monospace;
 font-size: 50px;
+align-items: center;
+
 }
 h1{
 
@@ -139,6 +141,7 @@ h1{
   display:inline-block;
   font-style: "Lucida Console", Monaco, monospace;
   font-size: 100px;
+  align-items: center;
 }
 
 h2{
@@ -146,6 +149,7 @@ h2{
   background-color: green;
   display: inline-block;
   font-size: 80px;
+  align-items: center;
 }
 
 @media screen and (max-width: break)
