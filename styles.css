@@ -132,7 +132,7 @@ p {background-color: green;
 display:inline-block;
 font-style: "Lucida Console", Monaco, monospace;
 font-size: 50px;
-align-items: center;
+alig
 
 }
 h1{
@@ -152,8 +152,8 @@ h2{
   align-items: center;
 }
 
-@media screen and (max-width: break)
+/* @media screen and (max-width: break)
 @media query {
 
 
-}
+} */
