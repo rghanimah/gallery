@@ -53,19 +53,17 @@ length:5%;
 width: 300px;
 length:300px;
 
-} */
-/*
-.row {
+}
+/* .row {
   display: flex;
   flex-wrap: wrap;
   padding: 10px;
-
-} */
+}  */
 
 .row0 img {
   width: 1300px;
   height: 750px;
-  padding: 5px;
+  padding: 10px;
   background-color: white;
 }
 
@@ -95,7 +93,7 @@ length:300px;
 .rowmid img {
   width: 1300px;
   height: 750px;
-  padding: 5px;
+  padding: 10px;
   background-color: green;
 }
 .row4 img {
