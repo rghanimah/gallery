@@ -123,13 +123,20 @@ length:300px;
 }
 
 .rowextra img {
-  width: 400px;
-  height: 400px;
+  width: 350px;
+  height: 350px;
   object-fit: scale-down;
   flex: auto;
   padding: 5px;
   background-color: red;
 }
+.row7 img {
+  width: 1300px;
+  height: 750px;
+  padding: 10px;
+  background-color: white;
+}
+
 
 body {
 
