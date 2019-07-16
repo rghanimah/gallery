@@ -123,6 +123,16 @@ length:300px;
   padding: 5px;
   background-color: white;
 }
+
+.rowextra img {
+  width: 400px;
+  height: 400px;
+  object-fit: scale-down;
+  flex: auto;
+  padding: 5px;
+  background-color: red;
+}
+
 body {
 
   background-color: black;
