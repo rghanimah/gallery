@@ -120,7 +120,7 @@ length:300px;
   object-fit: scale-down;
   flex: auto;
   padding: 5px;
-  background-color: green;
+  background-color: white;
 }
 body {
 
@@ -130,18 +130,26 @@ body {
 
 p {background-color: green;
 display:inline-block;
-font-family: "Lucida Grande", Times, serif;
-font-size: 200%
+font-style: "Lucida Console", Monaco, monospace;
+font-size: 50px;
 }
 h1{
 
   background-color: white;
   display:inline-block;
-  font-family: "Lucida Grande", Times, serif;
-  font-size: 550%
+  font-style: "Lucida Console", Monaco, monospace;
+  font-size: 100px;
+}
+
+h2{
+  font-style: "Lucida Console", Monaco, monospace;
+  background-color: green;
+  display: inline-block;
+  font-size: 80px;
 }
 
 @media screen and (max-width: break)
 @media query {
+
 
 }
