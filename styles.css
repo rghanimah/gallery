@@ -116,11 +116,11 @@ length:300px;
 }
 
 .row6 img {
-  width: 250px;
-  height: 250px;
+  width: 300px;
+  height: 300px;
   object-fit: scale-down;
   flex: auto;
-  padding: 3px;
+  padding: 5px;
   background-color: white;
 }
 body {
@@ -153,8 +153,8 @@ h2{
   align-items: center;
 }
 
-/* @media screen and (max-width: break)
+@media screen and (max-width:800px);
 @media query {
 
 
-} */
+}
