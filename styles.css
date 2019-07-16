@@ -115,11 +115,11 @@ length:300px;
 }
 
 .row6 img {
-  width: 300px;
-  height: 300px;
+  width: 250px;
+  height: 250px;
   object-fit: scale-down;
   flex: auto;
-  padding: 5px;
+  padding: 3px;
   background-color: white;
 }
 body {
